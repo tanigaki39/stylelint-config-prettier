@@ -88,7 +88,6 @@ module.exports = {
 		'no-eol-whitespace': null,
 		'no-missing-end-of-source-newline': null,
 		'no-empty-first-line': null,
-		'unicode-bom': null,
 		'number-leading-zero': null,
 		'rule-empty-line-before': null,
 
